@@ -56,8 +56,6 @@ You will learn how to use statistical models and machine learning as well as mod
 
   - experimentation
 
-  - experimentation
-
   - decision making
 
 ### What you'll learn
